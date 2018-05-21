@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "multi", "multi\multi.csproj", "{F116A521-7019-4366-B97D-46D8EC5DC048}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "net462", "net462\net462.csproj", "{DA721037-ACB9-482C-A2E6-41CC836916E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F116A521-7019-4366-B97D-46D8EC5DC048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F116A521-7019-4366-B97D-46D8EC5DC048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F116A521-7019-4366-B97D-46D8EC5DC048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F116A521-7019-4366-B97D-46D8EC5DC048}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA721037-ACB9-482C-A2E6-41CC836916E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA721037-ACB9-482C-A2E6-41CC836916E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA721037-ACB9-482C-A2E6-41CC836916E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA721037-ACB9-482C-A2E6-41CC836916E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
